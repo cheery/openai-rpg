@@ -14,6 +14,8 @@ To run the game, you'll need Python, the OpenAI API key, and the `openai` Python
 4. Start the game by inputting your actions or decisions.
 5. Type 'quit' to exit the game.
 
+Be warned though, this program appears to easily consume lot of tokens. I used 2$ while testing it.
+
 ## Features
 
 - Dynamic story generation based on the user's input and chosen genre/theme.
